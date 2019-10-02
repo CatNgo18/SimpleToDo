@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,6 +37,8 @@ Describe any challenges encountered while building the app.
 Learning how to use Android Studio was a little confusing but I eventually got the hang of it. I still feel like there's a lot more to learn though.
 
 Also, the coding language is still unfamiliar to me.
+
+Finally, most of the sections utilizing the terminal confused me as I'm on Windows and the instructors are all using macOS.
 
 ## License
 
